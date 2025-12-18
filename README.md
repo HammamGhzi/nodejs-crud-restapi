@@ -41,7 +41,7 @@ Buat database di MySQL, lalu jalankan query SQL berikut untuk membuat tabel yang
 
 ```sql
 -- Buat Database (opsional nama bebas)
-CREATE DATABASE aplikasi_kasir;
+CREATE DATABASE minuman;
 USE minuman;
 
 -- 1. Tabel Users
